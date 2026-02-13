@@ -1,0 +1,19 @@
+[19732:19992:0213/145827.938:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19732:19992:0213/145828.005:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19732:19992:0213/145831.778:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[12976:47628:0213/145833.350:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-228A94C70F604BD364609104C6412816 will be ignored
+[19732:73796:0213/145835.742:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[19732:19992:0213/145836.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19732:19992:0213/145836.737:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19732:19992:0213/145836.737:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19732:19992:0213/145836.737:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19732:73796:0213/145836.739:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19732:73796:0213/150100.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19732:19992:0213/150100.412:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19732:19992:0213/150100.412:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19732:19992:0213/150100.412:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19732:19992:0213/150100.412:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[62576:45388:0213/150322.125:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19732:19992:0213/153301.106:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19732:19992:0213/153305.777:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19732:19992:0213/153427.027:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
